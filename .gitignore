@@ -1,4 +1,9 @@
 *.class
+.classpath
+.project
+.settings
+target
+src/main/webapp/WEB-INF/classes
 
 # Package Files #
 *.jar
